@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Weather Forecast</string>
+    <string name="editText_city_name">Введите город или индекс:</string>
+    <string name="button_SearhCity">Показать погоду</string>
+    <string name="button_checkGPS">Определить по GPS</string>
+    <string name="not_conection_gps">Нет подключения GPS</string>
+</resources>
